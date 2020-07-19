@@ -1,4 +1,6 @@
-# Vision-por-ordenador-y-Analisis-de-imagen---edx
+# Vision-por-ordenador-y-Analisis-de-imagen
+
+Computer Vision and Image Analysis - edx
 https://www.edx.org/course/computer-vision-and-image-analysis-2
 
 
